@@ -1,0 +1,12 @@
+{
+  "replace" : false,
+  "values" : [
+    "minecraft:mud",
+    "minecraft:muddy_mangrove_roots",
+    "tfc:mud/silt",
+    "tfc:mud/sandy_loam",
+    "tfc:mud/silty_loam",
+    "tfc:muddy_roots/silty_loam",
+    "tfc:muddy_roots/loam"
+  ]
+}
